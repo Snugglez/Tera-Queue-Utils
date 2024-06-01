@@ -1,0 +1,10 @@
+{
+	"disableAutoUpdate": false,
+    "options": {"niceName": "Tera-Queue-Utils", "guiName": "Tera-Queue-Utils"},
+    "name": "Tera-Queue-Utils",
+    "author": "Snug",
+    "description": "Queues Warrior, Berserker, Brawler as tank based on skill advancement and adds a command to requeue (/8 req)",
+    "version": "1.0",
+	"servers": ["https://raw.githubusercontent.com/Snugglez/Tera-Queue-Utils/master/"],
+	"supportUrl": "https://github.com/Snugglez/Tera-Queue-Utils/blob/master/README.md"
+}

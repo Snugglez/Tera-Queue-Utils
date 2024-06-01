@@ -1,0 +1,11 @@
+int16 unk
+
+array instances
+- int32 id
+- int32 type
+- int32 unk
+- bool preferredLeader #probably
+
+array players
+- uint32 id
+- int32 role # 0 = Tank, 1 = DPS, 2 = Healer

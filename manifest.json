@@ -1,0 +1,11 @@
+{
+	"files": {
+		"C_MATCH_ADD.def": "692534312441db050c6f4ef199ca21373ad401fea09d3252af2a72a960a22293",
+		"README.md": "ce10fb9dd9cebf1851785187a8d895de0f070492fad4744bf12724e2c5e98221",
+		"index.js": "84d78e3b8bd903b8d36c574d5ba84418e39946bdba1b5b8b95f08ce5fa361013",
+		"module.json": "36eccd0e78fefde11629e785fab7883b0e2f824991a13c4ffa93688e392f6416"
+	},
+	"defs": {
+		"C_MATCH_ADD": [0,52831]
+	}
+}
